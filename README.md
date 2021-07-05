@@ -62,7 +62,6 @@
 
 
 
-Example resource 1](https://www.example.com)
 
 ## Deploying your project
 
