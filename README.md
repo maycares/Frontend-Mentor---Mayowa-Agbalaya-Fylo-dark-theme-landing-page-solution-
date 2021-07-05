@@ -34,7 +34,7 @@
   ### Links
 
  - Solution URL:[Github]
-(https://github.com/maycares/Frontendmentor.io-challenges-fylo-dark-theme-landing-page.git)
+(https://github.com/maycares/Frontend-Mentor---Mayowa-Agbalaya-Fylo-dark-theme-landing-page-solution-.git)
 
  - Live site URL :
 
