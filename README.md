@@ -1,6 +1,6 @@
  # Side Hustle Internship 3.0
 
-## Project: Frontend Mentor - MayowaA gbalaya Fylo dark theme landing  page solution 
+## Project: Frontend Mentor - Mayowa Agbalaya Fylo dark theme landing  page solution 
 
 ## Table of contents
 
@@ -26,6 +26,7 @@
 ### Screenshot
  - Mobile view
  ![](./images/fylo-dark-theme-mobile-view.png)
+
 
   - Desktop view
   ![](./images/fylo/dark/theme-desktop-view.png)
@@ -53,21 +54,13 @@
  
 
 ### What i learned
+ I learned a whole lot,how to use flexbox, css grids, css gradients etc
+ im on a journey to leran and build myself more
 
  
 
 
 
-
-
-
-
-
-### Continued development
-
-
-
-### Useful resources
 
 Example resource 1](https://www.example.com)
 
@@ -81,14 +74,11 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
  ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Agbalaya Mayowa](https://www.your-site.com)
+- Frontend Mentor - [@maycares](https://www.frontendmentor.io/profile/maycares)
+- Twitter - [@maycares](https://www.twitter.com/maycares)
 
- # Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit
-
+ 
 
 
 
